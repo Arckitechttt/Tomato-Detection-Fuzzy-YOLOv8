@@ -5,7 +5,7 @@
 The model used in this GUI (TomaTect App) is a combined Fuzzy and YOLOv8 algorithms named `Fuzzy YOLOv8.pt` that could detect fresh / rotten tomato from a picture of tomato.
 
 **Steps to use the GUI:**
-1. Your Python's version must be **3.10 <= Version < 3.12**
+1. Your Python's version must be: **3.10 <= Python's Version < 3.12**
 2. Open Windows Terminal / Powershell
 3. `pip install ultralytics==8.0.48`
 4. `pip install pyside6==6.4.2`
